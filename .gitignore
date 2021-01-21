@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+firebase.js
+jae_note.txt
+
 # testing
 /coverage
 
