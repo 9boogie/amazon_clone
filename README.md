@@ -7,7 +7,9 @@ Amazon is a simple, single-page Amazon clone. Single Page Amazon with following 
 Practice of HTML, CSS, React front-end skills, and Firebase on the backend.
 
 ## Final Product
-!["Screenshot of Main Page"]()
+!["Screenshot of Main Page"](https://github.com/9boogie/amazon_clone/blob/master/docs/Main_Page.png)
+!["Screenshot of Authentication"](https://github.com/9boogie/amazon_clone/blob/master/docs/Authentication.png)
+!["Screenshot of Basket with items"](https://github.com/9boogie/amazon_clone/blob/master/docs/Basket_With_Items.png)
 
 ## Getting Started
 
