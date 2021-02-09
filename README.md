@@ -1,8 +1,11 @@
 # Amazon Clone
+Deployed address (<https://clone-f13de.firebaseapp.com/>)
+
 Amazon is a simple, single-page Amazon clone. Single Page Amazon with following behaviours:
 
 - Add and Remove the items into baskets
 - Authentication using email (Register and sign in/out)
+- Purchase the items inside the baskets through the Stripe API
 
 Practice of HTML, CSS, React front-end skills, and Firebase on the backend.
 
