@@ -95,8 +95,8 @@ function Payment() {
           </div>
           <div className='payment__address'>
             <p>{user?.email}</p>
-            <p>123 React Ave</p>
-            <p>Vancouver, BC</p>
+            <p>2955 Atlantic Ave</p>
+            <p>Coquitlam, BC</p>
           </div>
         </div>
 
