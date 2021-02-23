@@ -6,6 +6,8 @@ Amazon is a simple, single-page Amazon clone. Single Page Amazon with following 
 - Add and Remove the items into baskets
 - Authentication using email (Register and sign in/out)
 - Purchase the items inside the baskets through the Stripe API
+- Purchase the baskets using Stripe API
+- Review the purchased items
 
 Practice of HTML, CSS, React front-end skills, and Firebase on the backend.
 
